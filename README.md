@@ -1,4 +1,7 @@
+# SHOPPING CART
+> Author: nguyenminhtho.it@gmail.com
 
-- install library:
+- Library used:
 + npm install react-loading-skeleton
-+ 
+
+- run: npm start
